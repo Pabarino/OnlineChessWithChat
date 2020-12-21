@@ -1,0 +1,14 @@
+{
+    "name": "onlinechesswithchat",
+    "description": "my first socket.io app",
+    "website": "https://github.com/Pabarino/OnlineChessWithChat",
+    "repository": "https://github.com/Pabarino/OnlineChessWithChat",
+    "logo": "https://node-js-sample.herokuapp.com/node.svg",
+    "success_url": "/",
+    "keywords": [
+      "node",
+      "express",
+      "socket.io",
+      "heroku"
+    ]
+  }
